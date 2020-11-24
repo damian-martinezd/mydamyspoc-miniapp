@@ -35,5 +35,17 @@
   },
   "keywords": [
     "ern-miniapp"
-  ]
+  ],
+  "description": "this a demo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damian-martinezd/mydamyspoc-miniapp.git"
+  },
+  "author": "Damys boy old",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damian-martinezd/mydamyspoc-miniapp/issues"
+  },
+  "homepage": "https://github.com/damian-martinezd/mydamyspoc-miniapp#readme"
 }
